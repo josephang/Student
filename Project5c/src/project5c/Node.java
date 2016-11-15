@@ -1,5 +1,5 @@
 package project5c;
-public class Node {
+public class Node{
     private Input item;
     private Node next;
     

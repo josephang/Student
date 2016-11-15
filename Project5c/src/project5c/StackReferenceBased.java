@@ -1,6 +1,7 @@
 package project5c;
-public class StackReferenceBased{
+public class StackReferenceBased<i>{
     private Node top;
+    
     public StackReferenceBased(){
         top = null;
     }
